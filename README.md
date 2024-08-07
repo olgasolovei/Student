@@ -1,1 +1,1 @@
-# Student
+# «Особливості проведення CodeReview в GitHub-репозиторіях
